@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "5fb45458887c7c6adbf3aee8"
+  },
+  "name": "iPhone",
+  "description": "mobile telephone",
+  "amount": 4
+},{
+  "_id": {
+    "$oid": "5fb45510912bbd0b30dcfd39"
+  },
+  "name": "TV",
+  "description": "Tevelvision",
+  "amount": 60
+},{
+  "_id": {
+    "$oid": "5fb4552c912bbd0b30dcfd3a"
+  },
+  "name": "Computer",
+  "description": "Everything you need to be digital",
+  "amount": 10
+},{
+  "_id": {
+    "$oid": "5fb455bb912bbd0b30dcfd3b"
+  },
+  "name": "Fusion core",
+  "description": "Because electricity is not enough",
+  "amount": 1
+},{
+  "_id": {
+    "$oid": "5fb5719bed20a320705d3e45"
+  },
+  "name": "Android Phone",
+  "description": "mobile telephone",
+  "amount": 10
+},{
+  "_id": {
+    "$oid": "5fb57b24ed20a320705d3e46"
+  },
+  "name": "Old TV",
+  "description": "TVI",
+  "amount": 100
+},{
+  "_id": {
+    "$oid": "5fba4431f6e7d6150ccc2df3"
+  },
+  "name": "Honor",
+  "description": "Phone a modern one",
+  "amount": 25
+},{
+  "_id": {
+    "$oid": "5fba45f2f6e7d6150ccc2df4"
+  },
+  "name": "Macbook",
+  "description": "Apple laptop",
+  "amount": 5
+}]
