@@ -1,8 +1,8 @@
 backend<br/>
-	npm install<br/>
-	npm start server.js<br/>
+&nbsp;npm install<br/>
+&nbsp;npm start server.js<br/>
 frontend<br/>
-	npm install<br/>
-	npm run start<br/>
+&nbsp;npm install<br/>
+&nbsp;npm run start<br/>
 database<br/>
-	DB.json file available<br/>
+&nbsp;DB.json file available<br/>
